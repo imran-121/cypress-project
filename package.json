@@ -1,0 +1,14 @@
+{
+  "name": "auto-cypress",
+  "version": "1.0.0",
+  "description": "exploring automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imran abbas satti",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
